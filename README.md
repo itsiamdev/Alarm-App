@@ -11,7 +11,7 @@ A simple and elegant web-based alarm clock application that helps you stay on ti
 
 ## 🌐 Live Demo
 
-Check out the live demo: [https://iam269.github.io/Alarm-App/](https://iam269.github.io/Alarm-App/)
+Check out the live demo: [https://itsiamdev.github.io/Alarm-App/](https://itsiamdev.github.io/Alarm-App/)
 
 ## 📁 Files
 
